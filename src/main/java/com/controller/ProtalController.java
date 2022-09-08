@@ -17,7 +17,7 @@ public static void main(String[] args) {
     System.out.println("hello hot-fix  test!");
     System.out.println("hello push-commit  test!");
     System.out.println("手动改的!");
-
+System.out.println("GitHub 更新!");
 }
 
 }
