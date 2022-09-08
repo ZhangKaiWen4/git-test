@@ -9,5 +9,8 @@ public class ProtalController {
 //    public String protal(){
 //        return "index";
 //    }
+public static void main(String[] args) {
+    System.out.println("hello git4!");
+}
 
 }
