@@ -9,4 +9,5 @@ public class ProtalController {
 //    public String protal(){
 //        return "index";
 //    }
+
 }
